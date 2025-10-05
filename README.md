@@ -1,3 +1,6 @@
+# Local fork to fix some issues based on https://github.com/CJNE/ha-sunspec
+
+
 # SunSpec
 
 This custom component for [home assistant](https://home-assistant.io/) will let you monitor any SunSpec Modbus compliant device, most commonly a solar inverter or energy meter. A list of compliant devices and manufacturers can be found on the [sunspec website](https://sunspec.org/sunspec-modbus-certified-products/).
